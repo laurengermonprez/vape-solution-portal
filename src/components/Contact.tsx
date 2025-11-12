@@ -87,6 +87,10 @@ const Contact = () => {
                     <div className="w-2 h-2 rounded-full bg-primary mr-3" />
                     Hotels & Resorts
                   </li>
+                  <li className="flex items-center">
+                    <div className="w-2 h-2 rounded-full bg-primary mr-3" />
+                    Facilities & Recreation Centers
+                  </li>
                 </ul>
               </CardContent>
             </Card>
