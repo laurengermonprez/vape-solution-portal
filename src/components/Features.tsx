@@ -31,7 +31,7 @@ const Features = () => {
     {
       icon: Clock,
       title: "24/7 Operation",
-      description: "Generate revenue around the clock with minimal maintenance"
+      description: "Always available with minimal maintenance required"
     }
   ];
 
