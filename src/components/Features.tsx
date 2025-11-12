@@ -57,7 +57,7 @@ const Features = () => {
                 <div className="w-14 h-14 rounded-xl bg-gradient-to-br from-primary to-accent flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
                   <feature.icon className="h-7 w-7 text-primary-foreground" />
                 </div>
-                <h3 className="text-xl font-bold text-foreground">{feature.title}</h3>
+                <h3 className="text-xl font-bold text-secondary-foreground">{feature.title}</h3>
                 <p className="text-secondary-foreground/70 leading-relaxed">
                   {feature.description}
                 </p>
