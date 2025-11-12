@@ -26,7 +26,7 @@ const Features = () => {
     {
       icon: Lock,
       title: "Secure & Reliable",
-      description: "Bank-level security with tamper-proof design and 24/7 monitoring"
+      description: "Secure technology with tamper-proof design ensures customer satisfaction and peace of mind"
     },
     {
       icon: Clock,
